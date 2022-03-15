@@ -3,18 +3,18 @@
 #### Here you will find some of my interesting foundings on the net related to coding:
 
 ##### Arrays
-![Arrays](js-cheat-sheets\array.jpg)
-![Arrays](js-cheat-sheets\Arrays-methods.jpg)
+![Arrays](js-cheat-sheets/array.jpg)
+![Arrays](js-cheat-sheets/Arrays-methods.jpg)
 
 
 ##### DOM 
-![DOM](js-cheat-sheets\DOM.jpg)
+![DOM](js-cheat-sheets/DOM.jpg)
 
 ##### REGEX
-![REGEX](js-cheat-sheets\regex.jpg)
+![REGEX](js-cheat-sheets/regex.jpg)
 
 ##### REGEX
-![REGEX](js-cheat-sheets\object.jpg)
+![REGEX](js-cheat-sheets/object.jpg)
 
 
   
