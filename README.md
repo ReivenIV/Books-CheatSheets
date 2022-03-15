@@ -2,18 +2,19 @@
 ### Welcome:
 #### Here you will find some of my interesting foundings on the net related to coding:
 
-##### Arrays
+### Arrays
 ![Arrays](js-cheat-sheets/array.jpg)
+<br>
 ![Arrays](js-cheat-sheets/Arrays-methods.jpg)
 
 
-##### DOM 
+### DOM 
 ![DOM](js-cheat-sheets/DOM.jpg)
 
-##### REGEX
+### REGEX
 ![REGEX](js-cheat-sheets/regex.jpg)
 
-##### REGEX
+### REGEX
 ![REGEX](js-cheat-sheets/object.jpg)
 
 
